@@ -3,7 +3,7 @@ import sys
 from pygame.locals import *
 
 from ship import *
-
+# comecomecomet
 pygame.init()
 screen_info = pygame.display.Info()
 
